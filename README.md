@@ -7,3 +7,4 @@ Meu nome é Larissa Cabral
 -  Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 -  
+![image](https://github.com/user-attachments/assets/c739dbdd-5ba0-4103-a1de-a6902121593d)
